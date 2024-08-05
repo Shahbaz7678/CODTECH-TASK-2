@@ -33,7 +33,7 @@ The objective of this project is to predict the results for dependent variables 
 2. pandas: Used for data manipulation and analysis
 3. matplotlib: For creating visualisations
 4. seaborn: Used for creating graphics that are informative and attractive
-5. sklearn: Used to implement stastical models
+5. sklearn: Used to implement statistical models
 
 ### Result
 ![image](https://github.com/user-attachments/assets/b1b3fad5-4244-4033-8727-5e3c2c87691c)
