@@ -1,10 +1,17 @@
 # CODTECH-TASK-2
+
 **Name:** Shahbaz Haider
+
 **Company:** CODTECH IT SOLUTIONS 
+
 **ID:** CT12DS2050
+
 **Domain:** DATA ANALYTICS
+
 **Duration:** August 2024 - October 2024
+
 **Mentor:**
+
 
 ## Overview of the Project
 
